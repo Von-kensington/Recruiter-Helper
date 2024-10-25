@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+}
+
+.navBar {
+    margin: 10px;
+}
+
+.navBar a {
+    text-decoration: none;
+    margin: 5px;
+}
+
+.navBar a:hover {
+    background-color: gray;
+}
