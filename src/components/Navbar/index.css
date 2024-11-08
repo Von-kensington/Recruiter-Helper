@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.links {
+    margin-left: 30px;
+}
+
+h1 {
+    margin-right: 200px;
+    text-align: center;
+}

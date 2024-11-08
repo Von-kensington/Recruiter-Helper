@@ -3,12 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
     return <div>
-        {/*Hero*/}
-        {/*About us*/}
-        {/*How it works*/}
-        {/*Testimonials*/}
-        {/*Featured*/}
-        {/*Cta*/}
+        <h1>Home</h1>
     </div>
 };
 
