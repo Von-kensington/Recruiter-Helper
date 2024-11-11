@@ -1,4 +1,12 @@
 body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#root,
+body,
+html {
+    background-color: #F0F0F0;
+    height: 100%;
     margin: 0;
-    padding: 0;
 }
